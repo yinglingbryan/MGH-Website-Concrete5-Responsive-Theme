@@ -1,0 +1,2 @@
+MGH
+Responsive theme for Concrete5.7
